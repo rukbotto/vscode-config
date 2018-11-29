@@ -13,4 +13,7 @@
     "git.autofetch": true,
     "window.zoomLevel": 0,
     "files.trimTrailingWhitespace": true
+    "emmet.includeLanguages": {
+        "liquid": "html"
+    }
 }
