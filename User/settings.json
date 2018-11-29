@@ -19,5 +19,7 @@
     "editor.tabSize": 2,
     "[python]": {
         "editor.tabSize": 4
-    }
+    },
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true
 }
