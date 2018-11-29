@@ -21,5 +21,12 @@
         "editor.tabSize": 4
     },
     "html.format.indentHandlebars": true,
-    "html.format.indentInnerHtml": true
+    "html.format.indentInnerHtml": true,
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        ".virtualenv",
+        ".virtualenvs"
+    ]
 }
