@@ -5,14 +5,14 @@
     "editor.minimap.enabled": false,
     "search.location": "panel",
     "workbench.activityBar.visible": true,
-    "files.insertFinalNewline": true,
     "editor.formatOnSave": true,
     "editor.rulers": [
         80
     ],
     "git.autofetch": true,
     "window.zoomLevel": 0,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
     "emmet.includeLanguages": {
         "liquid": "html"
     },
