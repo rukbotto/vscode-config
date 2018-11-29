@@ -7,26 +7,6 @@
     "workbench.activityBar.visible": true,
     "files.insertFinalNewline": true,
     "editor.formatOnSave": true,
-    "workbench.colorCustomizations": {
-        "statusBar.background": "#282a2e",
-        "statusBar.foreground": "#969896",
-        "statusBar.noFolderBackground": "#282a2e",
-        "statusBar.noFolderForeground": "#969896",
-        "statusBar.debuggingBackground": "#263238",
-        "statusBarItem.hoverBackground": "#282a2e",
-        "statusBarItem.activeBackground": "#282a2e",
-        "inputValidation.warningBackground": "#f0c674",
-        "inputValidation.warningForeground": "#1d1f21",
-        "list.hoverBackground": "#373b41",
-        "sideBarSectionHeader.background": "#373b41",
-        "editorIndentGuide.background": "#282a2e",
-        "editorIndentGuide.activeBackground": "#373b41",
-        "input.border": "#81a2be",
-        "focusBorder": "#81a2be",
-        "button.background": "#373b41",
-        "button.hoverBackground": "#81a2be",
-        "editorRuler.foreground": "#282a2e"
-    },
     "editor.rulers": [
         80
     ],
