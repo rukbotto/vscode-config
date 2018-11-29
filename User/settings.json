@@ -15,5 +15,9 @@
     "files.trimTrailingWhitespace": true
     "emmet.includeLanguages": {
         "liquid": "html"
+    },
+    "editor.tabSize": 2,
+    "[python]": {
+        "editor.tabSize": 4
     }
 }
