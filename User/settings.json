@@ -1,7 +1,7 @@
 {
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "workbench.colorTheme": "Base16 Tomorrow Light",
+    "workbench.colorTheme": "Zenburn",
     "editor.minimap.enabled": false,
     "search.location": "panel",
     "workbench.activityBar.visible": true,
