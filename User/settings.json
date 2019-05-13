@@ -28,5 +28,6 @@
         ".direnv",
         ".virtualenv",
         ".virtualenvs"
-    ]
+    ],
+    "terminal.external.osxExec": "iTerm.app"
 }
