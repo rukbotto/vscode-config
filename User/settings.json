@@ -1,7 +1,6 @@
 {
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "workbench.colorTheme": "Base16 Tomorrow Night",
     "editor.minimap.enabled": false,
     "search.location": "panel",
     "workbench.activityBar.visible": true,
@@ -30,5 +29,6 @@
         ".virtualenv",
         ".virtualenvs"
     ],
-    "terminal.external.osxExec": "iTerm.app"
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.colorTheme": "Base16 Github",
 }
