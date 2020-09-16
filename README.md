@@ -1,3 +1,3 @@
 # VSCode Config
 
-VSCode configuration files.
+Visual Studio Code configuration files.
