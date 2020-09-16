@@ -33,4 +33,9 @@
     "files.associations": {
         "Vagrantfile": "ruby"
     },
+    "files.exclude": {
+        "**/.git": false,
+        "**/.git/objects": true,
+        "**/.git/subtree-cache": true
+    }
 }
