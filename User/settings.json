@@ -2,7 +2,6 @@
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
     "editor.minimap.enabled": false,
-    "search.location": "panel",
     "workbench.activityBar.visible": true,
     "editor.formatOnSave": true,
     "editor.rulers": [
@@ -31,4 +30,7 @@
     ],
     "terminal.external.osxExec": "iTerm.app",
     "workbench.colorTheme": "Base16 Github",
+    "files.associations": {
+        "Vagrantfile": "ruby"
+    },
 }
