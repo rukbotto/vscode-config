@@ -29,7 +29,6 @@
         ".virtualenvs"
     ],
     "terminal.external.osxExec": "iTerm.app",
-    "workbench.colorTheme": "Base16 Github",
     "files.associations": {
         "Vagrantfile": "ruby"
     },
@@ -37,5 +36,11 @@
         "**/.git": false,
         "**/.git/objects": true,
         "**/.git/subtree-cache": true
-    }
+    },
+    "[shellscript]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4,
+        "files.eol": "\n"
+    },
+    "workbench.colorTheme": "Base16 Github"
 }
