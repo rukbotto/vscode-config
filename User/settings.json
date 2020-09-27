@@ -42,5 +42,11 @@
         "editor.tabSize": 4,
         "files.eol": "\n"
     },
-    "workbench.colorTheme": "Base16 Github"
+    "workbench.colorTheme": "Base16 Github",
+    "workbench.colorCustomizations": {
+        "[Base16 Github]": {
+            "button.background": "#795DA3",
+            "button.hoverBackground": "#C8C8FA"
+        }
+    }
 }
