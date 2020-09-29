@@ -42,6 +42,11 @@
         "editor.tabSize": 4,
         "files.eol": "\n"
     },
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.rulers": []
+    },
     "workbench.colorTheme": "Base16 Github",
     "workbench.colorCustomizations": {
         "[Base16 Github]": {
