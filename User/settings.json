@@ -30,7 +30,8 @@
     ],
     "terminal.external.osxExec": "iTerm.app",
     "files.associations": {
-        "Vagrantfile": "ruby"
+        "Vagrantfile": "ruby",
+        ".env*": "dotenv"
     },
     "files.exclude": {
         "**/.git": false,
@@ -50,8 +51,11 @@
     "workbench.colorTheme": "Base16 Github",
     "workbench.colorCustomizations": {
         "[Base16 Github]": {
+            "breadcrumb.focusForeground": "#A71D5D",
+            "breadcrumb.activeSelectionForeground": "#A71D5D",
             "button.background": "#795DA3",
             "button.hoverBackground": "#C8C8FA",
+            "editorWidget.background": "#F5F5F5",
             "icon.foreground": "#333333",
             "inputValidation.warningForeground": "#FFFFFF",
             "list.activeSelectionBackground": "#E8E8E8",
