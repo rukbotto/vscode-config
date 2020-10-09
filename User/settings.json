@@ -62,7 +62,7 @@
             "list.inactiveSelectionBackground": "#E8E8E8",
             "list.hoverBackground": "#E8E8E8",
             "selection.background": "#C8C8FA",
-            "sideBarSectionHeader.background": "#C8C8FA"
+            "sideBarSectionHeader.background": "#E8E8E8"
         }
     }
 }
