@@ -64,5 +64,7 @@
             "selection.background": "#C8C8FA",
             "sideBarSectionHeader.background": "#E8E8E8"
         }
-    }
+    },
+    "extensions.ignoreRecommendations": true,
+    "typescript.format.enable": false
 }
