@@ -51,20 +51,29 @@
     "workbench.colorTheme": "Base16 Github",
     "workbench.colorCustomizations": {
         "[Base16 Github]": {
-            "breadcrumb.focusForeground": "#A71D5D",
-            "breadcrumb.activeSelectionForeground": "#A71D5D",
+            "activityBar.activeBackground": "#E8E8E8",
+            "breadcrumb.background": "#E8E8E8",
+            "breadcrumb.focusForeground": "#183691",
+            "breadcrumb.activeSelectionForeground": "#183691",
             "button.background": "#795DA3",
-            "button.hoverBackground": "#C8C8FA",
-            "editorWidget.background": "#F5F5F5",
+            "button.hoverBackground": "#E8E8E8",
+            "editorWidget.background": "#E8E8E8",
             "icon.foreground": "#333333",
             "inputValidation.warningForeground": "#FFFFFF",
+            "widget.shadow": "#969896",
             "list.activeSelectionBackground": "#E8E8E8",
             "list.inactiveSelectionBackground": "#E8E8E8",
+            "list.focusBackground": "#E8E8E8",
             "list.hoverBackground": "#E8E8E8",
+            "notifications.background": "#E8E8E8",
+            "tab.activeBackground": "#E8E8E8",
+            "tab.hoverBackground": "#E8E8E8",
             "selection.background": "#C8C8FA",
-            "sideBarSectionHeader.background": "#E8E8E8"
+            "sideBarSectionHeader.background": "#E8E8E8",
+            "scrollbarSlider.background": "#E8E8E8",
+            "welcomePage.buttonHoverBackground": "#E8E8E8"
         }
     },
-    "extensions.ignoreRecommendations": true,
-    "typescript.format.enable": false
+    "typescript.format.enable": false,
+    "diffEditor.renderSideBySide": false
 }
