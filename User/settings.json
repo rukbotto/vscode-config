@@ -56,7 +56,7 @@
             "breadcrumb.focusForeground": "#183691",
             "breadcrumb.activeSelectionForeground": "#183691",
             "button.background": "#795DA3",
-            "button.hoverBackground": "#E8E8E8",
+            "button.hoverBackground": "#183691",
             "editorWidget.background": "#E8E8E8",
             "icon.foreground": "#333333",
             "inputValidation.warningForeground": "#FFFFFF",
