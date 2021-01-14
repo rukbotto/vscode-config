@@ -50,5 +50,14 @@
     },
     "workbench.colorTheme": "Github Light (rainglow)",
     "typescript.format.enable": false,
-    "diffEditor.renderSideBySide": false
+    "diffEditor.renderSideBySide": false,
+    "files.watcherExclude": {
+        "**/.venv/**": true
+    },
+    "git.confirmSync": false,
+    "git.allowForcePush": true,
+    "git-graph.maxDepthOfRepoSearch": 1,
+    "search.exclude": {
+        "**/.venv": true
+    }
 }
