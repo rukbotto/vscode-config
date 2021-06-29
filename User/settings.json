@@ -15,20 +15,12 @@
     "emmet.includeLanguages": {
         "liquid": "html"
     },
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "[python]": {
         "editor.tabSize": 4
     },
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
-    "python.venvFolders": [
-        "envs",
-        ".pyenv",
-        ".direnv",
-        ".virtualenv",
-        ".virtualenvs"
-    ],
-    "terminal.external.osxExec": "iTerm.app",
     "files.associations": {
         "Vagrantfile": "ruby",
         ".env*": "dotenv"
@@ -40,7 +32,6 @@
     },
     "[shellscript]": {
         "editor.insertSpaces": false,
-        "editor.tabSize": 4,
         "files.eol": "\n"
     },
     "[markdown]": {
@@ -48,15 +39,13 @@
         "editor.quickSuggestions": false,
         "editor.rulers": []
     },
-    "workbench.colorTheme": "Github Light (rainglow)",
+    "workbench.colorTheme": "Default Light+",
     "typescript.format.enable": false,
-    "diffEditor.renderSideBySide": false,
     "files.watcherExclude": {
         "**/.venv/**": true
     },
     "git.confirmSync": false,
     "git.allowForcePush": true,
-    "git-graph.maxDepthOfRepoSearch": 1,
     "search.exclude": {
         "**/.venv": true
     }
