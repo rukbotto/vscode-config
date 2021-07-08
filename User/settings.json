@@ -19,6 +19,9 @@
     "[python]": {
         "editor.tabSize": 4
     },
+    "[csv]": {
+        "files.insertFinalNewline": false,
+    },
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
     "files.associations": {
@@ -29,6 +32,9 @@
         "**/.git": false,
         "**/.git/objects": true,
         "**/.git/subtree-cache": true
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
     },
     "[shellscript]": {
         "editor.insertSpaces": false,
