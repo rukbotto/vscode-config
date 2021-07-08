@@ -10,6 +10,8 @@ Visual Studio Code configuration files.
 
 1. Install Git Lens extension. [Repo](https://github.com/eamodio/vscode-gitlens)
 
+1. Install Todo Tree extension. [Repo](https://github.com/Gruntfuggly/todo-tree)
+
 1. Clone this repo:
 
     ```
