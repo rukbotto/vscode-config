@@ -17,3 +17,11 @@ Visual Studio Code configuration files.
     ```
     git clone git@github.com:rukbotto/vscode-config.git
     ```
+
+## Usage
+
+Link the `User/` directory to VSCode app data directory:
+
+```
+$ ln -svf ~/vscode-config/User ~/Library/Application Support/Code
+```
