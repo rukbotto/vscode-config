@@ -48,5 +48,14 @@
     "git.allowForcePush": true,
     "search.exclude": {
         "**/.venv": true
-    }
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.venvPath": "~/.pyenv",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "window.restoreFullscreen": true
 }
